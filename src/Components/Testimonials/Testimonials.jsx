@@ -37,11 +37,11 @@ const slideBackward = () => {
                         <div className="user-info">
                             <img src={user_1} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Maria Benchaban</h3>
+                                <span>Setif</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one of the best decisions I have ever made. The supportive community, state-of-the-art facilities, and comitment to academic excellence have truly exceeded my expectations.</p>
+                        <p>Adhock Institute is really good for learning German. The teachers are amazing, and I highly recommend it!</p>
                     </div>
                 </li>
                 <li>
@@ -49,11 +49,11 @@ const slideBackward = () => {
                         <div className="user-info">
                             <img src={user_2} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Dhiaa sidhem</h3>
+                                <span>Setif</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one of the best decisions I have ever made. The supportive community, state-of-the-art facilities, and comitment to academic excellence have truly exceeded my expectations.</p>
+                        <p>Adhock Institute is great for learning French. The teachers are very helpful, and I recommend it to everyone!.</p>
                     </div>
                 </li>
                 <li>
@@ -61,11 +61,11 @@ const slideBackward = () => {
                         <div className="user-info">
                             <img src={user_3} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Dhiaa sidhem</h3>
+                                <span>Setif</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one of the best decisions I have ever made. The supportive community, state-of-the-art facilities, and comitment to academic excellence have truly exceeded my expectations.</p>
+                        <p>Adhock Institute is great for learning French. The teachers are very helpful, and I recommend it to everyone!.</p>
                     </div>
                 </li>
                 <li>
@@ -73,11 +73,11 @@ const slideBackward = () => {
                         <div className="user-info">
                             <img src={user_4} alt="" />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Dhiaa sidhem</h3>
+                                <span>Setif</span>
                             </div>
                         </div>
-                        <p>Choosing to pursue my degree at Edusity was one of the best decisions I have ever made. The supportive community, state-of-the-art facilities, and comitment to academic excellence have truly exceeded my expectations.</p>
+                        <p>Adhock Institute is great for learning French. The teachers are very helpful, and I recommend it to everyone!.</p>
                     </div>
                 </li>
             </ul>

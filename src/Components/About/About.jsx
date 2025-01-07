@@ -12,7 +12,7 @@ const About = ({setPlayState}) => {
             <img src={play_icon} alt=""  className='play-icon' onClick={()=>{setPlayState(true)}}/>
         </div>
         <div className="about-right">
-            <h3>ABOUT UNIVERSITY</h3>
+            <h3>ABOUT ADHOCK</h3>
             <h2>Nurturing Tomorrow's Leaders Today</h2>
             <p>Embark on a transformative educational journey with our university's comprehensive education programs. Our cutting-edge curriculam is designed to empower students with the knowledge, skills ans experiences needed to excel in the dynamic field of education</p>
             <p>With a focus of innovation, hands-on learning, and personalized mentorship, our programs prepare aspiring educators to make a meaningful impact in classroom, schools and communities</p>
